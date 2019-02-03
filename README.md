@@ -4,4 +4,4 @@ Starting from Heinken and Thiele (2015) genome-scale metabolic model HS/All of e
 Flux balance analysis is carried out using the COBRA Toolbox in MATLAB (R2018b), with the solver Gurobi.
 
 Source Code:
-HS_All is the .mat model adapted from Heinken and Thiele (2015)
+ - HS_All is the .mat model adapted from Heinken and Thiele (2015)
